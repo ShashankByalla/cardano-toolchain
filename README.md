@@ -36,7 +36,7 @@ docker --version
 1. Clone this repository (or download the `Dockerfile` and supporting files):
 
    ```bash
-   git clone https://github.com/yourusername/cardano-toolchain.git
+   git clone https://github.com/shashankbyalla/cardano-toolchain.git
    cd cardano-toolchain
    ```
 
